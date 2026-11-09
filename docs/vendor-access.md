@@ -7,5 +7,3 @@ Partner onboarding resources for Adinkra Corp.
 - [Company information](https://adinkracorp.com/about/)
 
 Use the onboarding coordinator for account requests. Do not commit credentials to this repository.
-
-_Adinkra lab reference: document-link interactions are monitored; this is not an authentication service._
