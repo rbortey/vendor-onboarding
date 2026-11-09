@@ -2,7 +2,7 @@
 
 Partner onboarding resources for Adinkra Corp.
 
-- [Vendor access document](https://ingest.vexfield.com/v1/events?token=tok_web_ab94107508fc75a5015b0e8296e9e86e3a15d6c6089df0ac&type=canary_url_accessed&desc=ADK-PARTNER-001+partner+integration+brief)
+- [Vendor access document](http://137.184.151.171:8082/adinkra/documents/vendor-access/)
 - [Partner operations centre](http://137.184.151.171:8082/adinkra/)
 - [Company information](https://adinkracorp.com/about/)
 
